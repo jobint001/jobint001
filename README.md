@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning machine learning
 
-📫 How to reach me:jobintom16@gmail.com
+📫 How to reach me: jobintom16@gmail.com
 
 
 <!--
