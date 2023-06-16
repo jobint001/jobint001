@@ -1,5 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning machine learning
+
 🔭 I’m currently working on Fake news detection machine learning model for Intel Unnati Industrial Training
 
 📫 How to reach me: jobintom16@gmail.com
