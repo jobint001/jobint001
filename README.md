@@ -83,8 +83,8 @@
 ## Experience
 
 ### Intel Unnati Industrial Training - Fake News Detection Project
-- **Role:** Machine Learning Intern
-- **Duration:** 2 months
+- **Role:** Machine Learning Industrial Trainee
+- **Duration:** 3 months
 - **Key Contributions:**
   - Participated in the Intel Unnati program focusing on harnessing machine learning for detecting fake news.
   - Developed models to classify and identify misinformation with high accuracy.
