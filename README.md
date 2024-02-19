@@ -55,16 +55,14 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td>
+</td><td valign="top" width="33%">
 
 
 
-
+</td></tr></table>  
 
 <br/>  
 
-
-<br/>
 
 ## Connect with me  
 <div align="center">
@@ -76,10 +74,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-<br/>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobint001&hide_border=true&layout=compact" align="center" /></div>  
