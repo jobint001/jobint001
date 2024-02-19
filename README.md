@@ -15,7 +15,10 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
+
+- ![image](https://github.com/jobint001/jobint001/assets/92356462/3b9126e6-a457-4936-840d-6ce17e286d00)
+ connect me: jobintom16@gmail.com
   
 
 <br/>  
