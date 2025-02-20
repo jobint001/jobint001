@@ -6,10 +6,10 @@
 ### <div align="center">I'm Jobin Tom, a technology enthusiast 👨‍💻 working on my web dev skills🚀</div>  
   
 
-- 🔭 I’m currently working on Nakshatra, techno-cultural fest, website  
+- 🔭 I’m currently working at a startup, Cooee 
   
 
-- 🌱 I’m currently learning Machine learning   
+- 🌱 I’m currently learning GoLang
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
