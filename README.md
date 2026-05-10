@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hey, I'm Jobin Tom 👋 — a backend developer passionate about building things that actually work.</div>  
+### <div align="center">Hey, I'm Jobin Tom 👋, a backend developer passionate about building things that actually work.</div>  
 <br>
   
 - 🚀 Backend dev at **Cooee**, writing Go and figuring things out as I go.
